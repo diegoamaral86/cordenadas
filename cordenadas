@@ -1,0 +1,29 @@
+[
+  {
+    "key" : "01",
+    "name" : "Pinheiros BL1",
+    "latitude" : -23.542432400000,
+    "longitude" : -46.879100500000
+  },
+  
+  {
+    "key" : "02",
+    "name" : "Pinheiros BL2",
+    "latitude" : -23.542446900000,
+    "longitude" : -46.879318000000
+  },
+  
+  {
+    "key" : "03",
+    "name" : "Pinheiros BL3",
+    "latitude" : -23.542598100000,
+    "longitude" : -46.879599100000
+  },  
+  
+  {
+    "key" : "04",
+    "name" : "Pinheiros BL4",
+    "latitude" : -23.542675000000,
+    "longitude" : -46.879728600000
+  },
+]
